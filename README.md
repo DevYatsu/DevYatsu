@@ -34,7 +34,11 @@
 
 #### Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevYatsu&row=2&theme=tokyonight&column=8&no-frame=false&no-bg=false" alt="DevYatsu2"></a></p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=DevYatsu&row=2&theme=tokyonight&column=8&no-frame=false&no-bg=false" alt="DevYatsu2">
+  </a>
+</p>
 
 #### Stats
 <p align="center">
