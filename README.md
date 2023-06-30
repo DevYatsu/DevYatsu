@@ -7,6 +7,7 @@
 <p>I'm a self-taught passionate from France. 🇫🇷</p>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm0xanMxd284M2hkNWNmNnB0Y3J5NW5lNWFyNzhkMXZ2djA5eXl0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <b> About me </b>
+<br/>
 <ul>
   <li>👋 Hi, I’m @DevYatsu </li>
   <li>❤️ I love Creating websites and Programming in Javascript.</li>
