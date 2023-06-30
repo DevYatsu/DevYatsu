@@ -35,7 +35,7 @@
 #### Trophies
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="right">
     <img src="https://github-profile-trophy.vercel.app/?username=DevYatsu&row=2&theme=tokyonight&column=8&no-frame=false&no-bg=false" alt="DevYatsu2">
   </a>
 </p>
