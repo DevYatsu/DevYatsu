@@ -37,11 +37,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevYatsu&row=2&column=6&theme=tokyonight&column=8&no-frame=false&no-bg=false" alt="DevYatsu2"></a></p>
 
 #### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DevYatsu&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yatsu's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevYatsu&layout=compact&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DevYatsu&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Yatsu's github stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevYatsu&layout=compact&theme=tokyonight" />
+  </a>
+</p>
 <br />
