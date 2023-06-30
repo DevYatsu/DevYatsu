@@ -34,7 +34,7 @@
 
 #### Trophies
 
-<p align="center"> 
+<p align="right"> 
     <img src="https://github-profile-trophy.vercel.app/?username=DevYatsu&row=2&theme=tokyonight&column=8&no-frame=false&no-bg=false" alt="DevYatsu2">
 </p>
 
