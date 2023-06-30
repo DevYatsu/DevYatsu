@@ -10,7 +10,7 @@
 <br/>
 <ul>
   <li>👋 18 years old </li>
-  <li>❤️ Enjoy Typescript, python and rust</li>
+  <li>❤️ Enjoy Typescript, Python and Rust</li>
   <li>🌱 I’m currently learning Web Development, Native Development, Rust, Python, and JS.</li>
   <li>🧐 Portfolio Website, Coming soon...</li>
 </ul>
