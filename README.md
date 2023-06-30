@@ -9,8 +9,8 @@
 <b> About me </b>
 <br/>
 <ul>
-  <li>👋 Hi, I’m @DevYatsu </li>
-  <li>❤️ I love Creating websites and Programming in Javascript.</li>
+  <li>👋 18 years old </li>
+  <li>❤️ Enjoy Typescript, python and rust</li>
   <li>🌱 I’m currently learning Web Development, Native Development, Rust, Python, and JS.</li>
   <li>🧐 Portfolio Website, Coming soon...</li>
 </ul>
