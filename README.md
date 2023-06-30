@@ -5,7 +5,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+developer;I'm+a+competitive+programmer;I'm+a+Typescript+developer" /></a>
 </p>
 <p>I'm a self-taught passionate from France </p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm0xanMxd284M2hkNWNmNnB0Y3J5NW5lNWFyNzhkMXZ2djA5eXl0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @DevYatsu </li>
   <li>❤️ I love Creating websites and Programming in Javascript.</li>
