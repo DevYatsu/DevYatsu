@@ -4,12 +4,12 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+developer;I'm+a+competitive+programmer;I'm+a+Typescript+developer" /></a>
 </p>
-<p>I'm a self-taught passionate from France. 🇫🇷</p>
+<p>I'm a self-taught passionate developer from France. 🇫🇷</p>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm0xanMxd284M2hkNWNmNnB0Y3J5NW5lNWFyNzhkMXZ2djA5eXl0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <b> About me </b>
 <br/>
 <ul>
-  <li>👋 18 years old </li>
+  <li>👋 16 years old </li>
   <li>❤️ Enjoy Typescript, Python and Rust</li>
   <li>🌱 I’m currently learning Web Development, Native Development, Rust, Python, and JS.</li>
   <li>🧐 Portfolio Website, Coming soon...</li>
