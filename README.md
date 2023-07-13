@@ -2,9 +2,9 @@
   <h1 align="center">Welcome to <a href="https://github.com/DevYatsu">Yatsu</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+developer;I'm+a+competitive+programmer;I'm+a+Typescript+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;I'm+a+Typescript+developer;I'm+a+Python+developer;I'm+a+Rustaceans" /></a>
 </p>
-<p>I'm a self-taught passionate developer from France. 🇫🇷</p>
+<p>I'm a self-taught developer from France. 🇫🇷</p>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm0xanMxd284M2hkNWNmNnB0Y3J5NW5lNWFyNzhkMXZ2djA5eXl0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <b> About me </b>
 <br/>
