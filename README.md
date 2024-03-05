@@ -24,13 +24,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 #### Top Repo
-<a href="https://github.com/DevYatsu/FileMorph">
+<a href="https://github.com/DevYatsu/pkl_fast">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DevYatsu&repo=FileMorph&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DevYatsu&repo=pkl_fast&theme=tokyonight" />
 </a>    
-<a href="https://github.com/DevYatsu/TypicodeBasedNextJsApp">
+<a href="https://github.com/DevYatsu/MbnEasyLogin">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DevYatsu&repo=TypicodeBasedNextJsApp&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DevYatsu&repo=MbnEasyLogin&theme=tokyonight"/>
 </a>
 
 #### Trophies
