@@ -9,7 +9,7 @@
 <b> About me </b>
 <br/>
 <ul>
-  <li>👋 17 years old </li>
+  <li>👋 18 years old </li>
   <li>❤️ Enjoy Rust, Typescript and Python</li>
  <!-- <li>🧐 Portfolio Website, Coming soon...</li> -->
 </ul>
